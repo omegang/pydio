@@ -1,7 +1,7 @@
 FROM phusion/baseimage
 MAINTAINER N Panchal <zafayar@hotmail.com>
 
-ENV PYDIO_VERSION="8.0.2"
+ENV PYDIO_VERSION="8.0.1"
 ENV PYDIO_BOOSTER_VER="1.0.2"
 ENV DEBIAN_FRONTEND=noninteractive
 
